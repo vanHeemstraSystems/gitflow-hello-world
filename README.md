@@ -16,9 +16,10 @@ sequenceDiagram
 
 See also https://github.com/leachim6/hello-world/blob/master/j/javascript.js
 
-This repository documents the steps to creates Minimum Viable Products (MVPs), which consists of the followwing:
-- A JavaScript script which logs a message: "Hello" (MVP#1)
-- An improvement of the JavaScript script which logs a message: "Hello World" (MVP#2)
+This repository documents the steps to creates Minimum Viable Products (MVPs), which consists of the following:
+- A feature, being a JavaScript script which logs a message: "Hello" (MVP#1)
+- A new feature, being an improvement of the JavaScript script which logs a message: "Hello World" (MVP#2)
+- A hotfix of the JavaScript script which logs a message: "Hello World!" (MVP#3)
 
 We start from scratch.
 
